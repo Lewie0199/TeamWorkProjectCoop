@@ -1,0 +1,22 @@
+U:\Pigeon Chat\Pigeon Chat\bin\Debug\LogInPractice.exe.config
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice.exe
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice.xml
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice.pdb
+U:\Pigeon Chat\Pigeon Chat\bin\Debug\LogInPractice.exe
+U:\Pigeon Chat\Pigeon Chat\bin\Debug\LogInPractice.pdb
+U:\Pigeon Chat\Pigeon Chat\bin\Debug\LogInPractice.xml
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\MainWindow.baml
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\Welcome.baml
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\MainWindow.g.vb
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\Welcome.g.vb
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\Application.g.vb
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice_MarkupCompile.cache
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice.g.resources
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice.Resources.resources
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\Pigeon Chat.vbproj.GenerateResource.Cache
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\ChatScreen.baml
+U:\Pigeon Chat\Pigeon Chat\obj\Debug\ChatScreen.g.vb
+U:\SDD\TheCoop\Pigeon Chat\Pigeon Chat\bin\Debug\LogInPractice.exe.config
+U:\SDD\TheCoop\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice.exe
+U:\SDD\TheCoop\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice.xml
+U:\SDD\TheCoop\Pigeon Chat\Pigeon Chat\obj\Debug\LogInPractice.pdb
